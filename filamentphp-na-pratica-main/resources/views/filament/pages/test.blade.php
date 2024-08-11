@@ -1,0 +1,3 @@
+<x-filament::page>
+    Testando simples...
+</x-filament::page>
